@@ -688,7 +688,6 @@ footer {
   /* Responsividade para telas menores (tablet e celular) */
   @media screen and (max-width: 768px) {
 
-
     .header-container {
       flex-direction: row;
       align-items: center;
